@@ -2,5 +2,5 @@
 
 Resume is attach as a PDF in this repo.
 
-https://coolsrj06.github.io/Resume/MyResumeSTD19_Spring.pdf
+MySTDResume_Spring_ML_24.pdf
 
